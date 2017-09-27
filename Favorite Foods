@@ -1,12 +1,43 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Luc Wells</title>
+<title>Luc's Page</title>
+<style>
+div.container {
+    width: 100%;
+}
+header {
+    padding: 1em;
+    color: white;
+    background-color:#37D8E8;
+    text-align: center;
+}
+article {
+    padding:1em;
+	 background-color: #90F43D;
+}
+</style>
 </head>
 <body>
 
-<h1>My Favorite Foods</h1>
-<p>My three favorte foods are pizza, cheeseburgers, and any form of chicken.</p>
+<div class="container">
 
-</body>
-</html>
+<header>
+   <h1>Luc Wells</h1>
+</header>
+  
+<nav>
+  <ul>
+    <li><a href="index.html">Home Page</a></li>
+  </ul>
+</nav>
+
+<article>
+  <h1>Favorite Foods</h1>
+<p>My three favorte foods are pizza, club sandwich, and chicken. My favorite type of pizza is a bacon, pepperoni, and sausage
+pizza. My favorite club sandwich is a lettuece, bacon, mayo, ham, turkey, and cheese. And finally, my favorite chicken is  
+almost any type of breaded chicken.</p>
+</article>
+
+
+</div>
