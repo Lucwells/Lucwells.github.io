@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pizza</title>
+<style>
+div.container {
+    width: 100%;
+}
+header {
+    padding: 1em;
+    color: #691CFA;
+    background-color:#3FF4CB;
+    text-align: center;
+}
+article {
+    padding:1em;
+	 background-color: #90F43D;
+}
+</style>
+</head>
+<body>
+
+
+<div class="container">
+<header>
+   <h1>Making Pizza</h1>
+   <h1><li><a href="Favorite Foods">Favorite Foods</a></li></h1>
+</header>
+</div>
+
+<article>
+  <h1>Pizza</h1>
+<p>First you get your dough and form it. Then you oil it up. Then you get some tomatoe sauce and spread it on the dough. Then you get some cheese and you put it on the sauce. Then you get you meats and you put it on the cheese. Then you get the pizza and put it in the oven, and let it cook.
+</article> 
+
+
+</body>
+</html>
