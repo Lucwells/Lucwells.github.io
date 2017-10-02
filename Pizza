@@ -4,19 +4,23 @@
 <head>
 <title>Pizza</title>
 <style>
+<!-- Main Container -->
 div.container {
     width: 100%;
 }
+    <!-- Heading Container -->
 header {
     padding: 1em;
     color: #691CFA;
     background-color:#3FF4CB;
     text-align: center;
 }
+         <!-- Body Container -->
 article {
     padding:1em;
 	 background-color: #90F43D;
 }
+<!-- End of Main Container -->
 </style>
 </head>
 <body>
@@ -31,7 +35,7 @@ article {
 
 <article>
   <h1>Pizza</h1>
-<p>First you get your dough and form it. Then you oil it up. Then you get some tomatoe sauce and spread it on the dough. Then you get some cheese and you put it on the sauce. Then you get you meats and you put it on the cheese. Then you get the pizza and put it in the oven, and let it cook.
+<p>First you get your dough and form it. Then you oil it up. Then you get some tomatoe sauce and spread it on the dough. Then you get some cheese and sprinkle it on the sauce. Then you get your meats and you put it on the cheese. Then you get the pizza and put it in the oven, and let it cook for 30 minutes at 450 degrees. Then you have your pizza!
 </article> 
 
 
