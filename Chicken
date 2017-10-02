@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Chicken</title>
+<style>
+div.container {
+    width: 100%;
+}
+header {
+    padding: 1em;
+    color: #691CFA;
+    background-color:#FA981C;
+    text-align: center;
+}
+article {
+    padding:1em;
+	 background-color: #FAE21C;
+}
+</style>
+</head>
+<body>
+
+
+<div class="container">
+<header>
+   <h1>Making Chicken</h1>
+   <h1><li><a href="Favorite Foods">Favorite Foods</a></li></h1>
+</header>
+</div>
+
+<article>
+  <h1>Chicken</h1>
+<p>First you buy some chicken. Then you cut the chicken into small chunks. When you get the chunks, cover the chicken in seasoning. Then dip the chicken in buttermilk and cover it in flour. Then fry the chicken in a skillet with oil until it turns brown. Finally, you drain the chicken with a towel, and then you have your chicken!
+</article> 
+
+
+</body>
+</html>
