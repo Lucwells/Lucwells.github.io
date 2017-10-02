@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sandwich</title>
+<style>
+div.container {
+    width: 100%;
+}
+header {
+    padding: 1em;
+    color: #691CFA;
+    background-color:#CDEE3A;
+    text-align: center;
+}
+article {
+    padding:1em;
+	 background-color: #7AF514;
+}
+</style>
+</head>
+<body>
+
+
+<div class="container">
+<header>
+   <h1>Making a Sandwich</h1>
+   <h1><li><a href="Favorite Foods">Favorite Foods</a></li></h1>
+</header>
+</div>
+
+<article>
+  <h1>Sandwich</h1>
+<p>First you get your bread. Spread moyo on both sides of the bread. Then put cheese on one side of the bread. Then you put letteuce on the same side as the cheese. Then you put turkey and ham ontop of the letteuce. Finally, get bacon, and put it ontop of the turkey and ham, and you have your sandwich!
+</article> 
+
+
+</body>
+</html>
