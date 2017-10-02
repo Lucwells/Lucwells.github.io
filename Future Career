@@ -1,1 +1,61 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Future Career</title>
+<style>
+div.container {
+    width: 100%;
+}
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: #14F5CF;
+    text-align: center;
+}
+nav {
+    float: left;
+}
+nav ul {
+    padding: 30;
+	 background-color: #1BC2EB;
+    margin: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+article {
+    border-left: 2px solid #30D6B1;
+    padding:3em;
+    overflow: hidden;
+	 background-color: #D143FF;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<header>
+   <h1>Future Career</h1>
+<li><a href="https://www.graphicartistsguild.org">Game Design Organization</a></li>
+<li><a href="index.html">Home Page</a></li>
+</header>
+  
+<article>
+  <h1>Game Drawing</h1>
+  <p>My future career that I want to perue is Game drawing. I want to draw characters or items on paper and give it to computer 
+  drawers. Game drawing doesn't have any requirements, but years of school are prefered. Employers prefer people with 3-5 years 
+  in game art. Also, it is prefered that they take classes in modeling and animation, color theory, interface design, level design,
+  scene design and illustration. The salaries for game artists is usually $30,000 annually for entry-level art positions, but they
+  can grow to as much as $90,000 per year, and even higher for lead positions. Locations for this job can be anywhere a gaming company 
+  is located. An outline plan for this job includes many different art classes. Drawers should take multiple classes to see what 
+  style/type of art they are best at.</p>
+<img src="GameDesigner.jpg" alt= "Game Designer" style="width:300px;height;230px;">
+</article>
+
+</div>
+
+</body>
+</html>
